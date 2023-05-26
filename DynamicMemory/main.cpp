@@ -4,7 +4,7 @@ using std::cin;
 using std::cout;
 using std::endl;
 
-#define delimiter "\n__________________________\n"
+#define delimiter "\n--------------------------------\n"
 
 
 void FillRand(int arr[], int n);
